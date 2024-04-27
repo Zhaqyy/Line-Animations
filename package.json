@@ -1,10 +1,9 @@
 {
-  "name": "404Challenge",
+  "name": "line-pattern-animation",
   "version": "1",
-  "description": "A showcase for a 404 Challenge",
+  "description": "A showcase for a ribbon show featuring patterns made with lines and ribbons in a 3d space ",
   "author": "Shuaib Abdulrazaq (https://github.com/Zhaqyy)",
-  "private": true,
-  "type": "module",
+
   
   "dependencies": {
     "@react-three/drei": "9.96.5",
