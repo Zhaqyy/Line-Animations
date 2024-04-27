@@ -1,6 +1,7 @@
-# 404 Challenge
+#   Line Pattern Animation
 
-_A showcase for a 404 Challenge_
+
+_A showcase for a ribbon show featuring patterns made with lines and ribbons in a 3d space _
 
 <!-- ![Preview](/public/preview.gif) -->
 
@@ -14,14 +15,14 @@ _A showcase for a 404 Challenge_
 ### Installation
 
 ```
-npm install
+yarn install
 ```
 
 ### Scripts
 
 ```
-npm run dev
-npm run build
-npm run preview
-npm run sandbox
+yarn run dev
+yarn run build
+yarn run preview
+yarn run sandbox
 ```
