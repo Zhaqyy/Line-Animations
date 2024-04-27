@@ -22,7 +22,7 @@ export default function LineHero() {
       {/* <color attach="background" args={['#242424']} /> */}
       <Lines dash={dash} count={count} radius={radius} colors={[[10, 0.5, 2], [1, 2, 10], "#ff8c00", "#008080", "#800080", "#008000", "#ffa500"
 ]} />
-      <Perf position="bottom-left" />
+{/*       <Perf position="bottom-left" /> */}
 
       <Rig />
       <EffectComposer>
